@@ -15,8 +15,6 @@
             Identifiant de connexion : <input type="text" name="log" size="20" maxlength="50" placeholder="Nom de connexion"/><br /><br />
             Mot de passe : <input id="inputPassword" type="password" name="mdp" /><br /><br />
 
-<!--Ceci est un test--><p>test</p>
-
             <input type="submit" value="Envoyer">
             <input type="reset" value="Annuler">
 
