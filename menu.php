@@ -7,7 +7,7 @@
 
 <html><head>  <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
 </head>
-
+<body  class="pager">
 <img src="bannerm2l.png" /><br />
 
 <ul class="nav nav-pills">
@@ -23,6 +23,7 @@
     <li role="presentation"><a href="formintranet.php">Intranet</a></li>
 </ul>
 
+</body>
 </html>
 
 

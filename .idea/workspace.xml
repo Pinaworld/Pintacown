@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba166a9-84fc-48c5-88c2-c95e76fbd57f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glyphicons-115-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glyphicons-13-heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glyphicons-25-parents.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glyphicons-29-cars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.php" afterPath="$PROJECT_DIR$/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emploi.php" afterPath="$PROJECT_DIR$/emploi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/formintranet.php" afterPath="$PROJECT_DIR$/formintranet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intranet.php" afterPath="$PROJECT_DIR$/intranet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juridiction.php" afterPath="$PROJECT_DIR$/juridiction.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/links.php" afterPath="$PROJECT_DIR$/links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locaux.php" afterPath="$PROJECT_DIR$/locaux.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reservation.php" afterPath="$PROJECT_DIR$/reservation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.php" afterPath="$PROJECT_DIR$/services.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sport.php" afterPath="$PROJECT_DIR$/sport.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staff.php" afterPath="$PROJECT_DIR$/staff.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stuffinfo.php" afterPath="$PROJECT_DIR$/stuffinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="m2l.iws" />
@@ -45,12 +29,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="locaux.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locaux.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7260677" vertical-offset="0" max-vertical-offset="679">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="493">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.55081004" vertical-offset="0" max-vertical-offset="679">
+              <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+              <folding>
+                <element signature="e#6#84#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,8 +75,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheet.css" />
         <option value="$PROJECT_DIR$/dgdq.html" />
-        <option value="$PROJECT_DIR$/menu.php" />
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/blog.php" />
         <option value="$PROJECT_DIR$/emploi.php" />
         <option value="$PROJECT_DIR$/formintranet.php" />
@@ -94,6 +88,8 @@
         <option value="$PROJECT_DIR$/sport.php" />
         <option value="$PROJECT_DIR$/staff.php" />
         <option value="$PROJECT_DIR$/stuffinfo.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/menu.php" />
       </list>
     </option>
   </component>
@@ -303,7 +299,19 @@
       <option name="project" value="LOCAL" />
       <updated>1424170074380</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="pinactown official">
+      <created>1424171512061</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1424171512061</updated>
+    </task>
+    <task id="LOCAL-00016" summary="pinactown official">
+      <created>1424171629540</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1424171629540</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -614,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="595">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="561">
@@ -680,24 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locaux.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="493">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="595">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#84#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reservation.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52577317" vertical-offset="0" max-vertical-offset="679">
@@ -740,9 +722,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7260677" vertical-offset="0" max-vertical-offset="679">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.52577317" vertical-offset="0" max-vertical-offset="679">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12518409" vertical-offset="0" max-vertical-offset="679">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locaux.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="493">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55081004" vertical-offset="0" max-vertical-offset="679">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

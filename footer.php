@@ -16,12 +16,15 @@
     </head>
 
     <body>
-
-    <img src="glyphicons-115-list.png" /> Info legales
-    <img src="glyphicons-29-cars.png" /> Liens partnaires
-    <img src="glyphicons-13-heart.png" /> Favoris
-    <img src="glyphicons-25-parents.png" /> Contact
-    <img src="glyphicons-47-router.png" /> Faire connaitre le site
+    <nav>
+        <ul class="pager">
+            <li><a href="#"><img src="glyphicons-115-list.png" /> Info legales</a></li>
+            <li><a href="#"><img src="glyphicons-29-cars.png" /> Liens partnaires</a></li>
+            <li><a href="#"><img src="glyphicons-13-heart.png" />Favoris</a></li>
+            <li><a href="#"><img src="glyphicons-25-parents.png"/>Contact</a></li>
+            <li><a href="#"><img src="glyphicons-47-router.png"/>Faire connaitre le site</a></li>
+        </ul>
+    </nav>
 
     </body>
 
