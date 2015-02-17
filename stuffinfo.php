@@ -17,5 +17,14 @@
 
 
         <h2>Materiel informatique</h2>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <?php include("footer.php") ?>
 </body>
 </html>

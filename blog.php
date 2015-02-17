@@ -15,5 +15,14 @@
 <?php include("menu.php") ?>
 
     <h2>Blog</h2>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<?php include("footer.php") ?>
 </body>
 </html>

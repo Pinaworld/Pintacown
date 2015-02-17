@@ -15,6 +15,16 @@
         <?php include("menu.php") ?>
         <br /><br />
         <h2>Juridiction</h2>
+
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <?php include("footer.php") ?>
 </body>
 </html>
 

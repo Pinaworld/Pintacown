@@ -16,5 +16,14 @@
         <?php include("menu.php") ?>
 
         <h2>Bot des réservations</h2>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <?php include("footer.php") ?>
 </body>
 </html>
