@@ -1,23 +1,28 @@
-/**
+<?php /**
 * Created by PhpStorm.
 * Owner: Benoit
 * Date: 13/02/2015
 * Time: 08:44
-*/
+*/ ?>
 
-<html>
+<html><head>  <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
+</head>
 
 <img src="bannerm2l.png" /><br />
-<a href="index.php">Accueil</a>
-<a href="staff.php">Qui sommes nous ?</a>
-<a href="blog.php">Le blog</a>
-<a href="emploi.php">Offre emploi</a>
-<a href="juridiction.php">Juridction</a>
-<a href="locaux.php">Locaux</a>
-<a href="stuffinfo.php">Matériel déployé</a>
-<a href="services.php"> Services</a>
-<a href="reservation.php">Réservations</a>
-<a href="formintranet.php">Intranet</a>
+
+<ul class="nav nav-pills">
+    <li role="presentation" class="active"><a href="index.php">Accueil</a></li>
+    <li role="presentation"><a href="staff.php">Qui sommes nous ?</a></li>
+    <li role="presentation"><a href="blog.php">Le blog</a></li>
+    <li role="presentation"><a href="emploi.php"">Offre d'emploi</a></li>
+    <li role="presentation"><a href="juridiction.php">Juridiction</a></li>
+    <li role="presentation"><a href="locaux.php">Locaux</a></li>
+    <li role="presentation"><a href="stuffinfo.php">Matériel deployé</a></li>
+    <li role="presentation"><a href="services.php">Services</a></li>
+    <li role="presentation"><a href="reservation.php">Reservations</a></li>
+    <li role="presentation"><a href="formintranet.php">Intranet</a></li>
+</ul>
+
 </html>
 
 
