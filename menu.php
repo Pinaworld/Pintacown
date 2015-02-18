@@ -6,8 +6,9 @@
 */ ?>
 
 <html><head>  <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
+    <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
 </head>
-<body  class="pager">
+<body>
 <img src="bannerm2l.png" /><br />
 
 <ul class="nav nav-pills">
@@ -25,6 +26,3 @@
 
 </body>
 </html>
-
-
-

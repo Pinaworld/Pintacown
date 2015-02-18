@@ -9,6 +9,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
+    <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
     <title>M2l - Blog</title>
 </head>
 <body>
