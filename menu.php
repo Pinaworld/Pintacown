@@ -10,7 +10,8 @@
 </head>
 <body class="page-header">
 <img src="bannerm2l.png" /><br />
-
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <ul class="nav nav-pills">
     <li role="presentation" class="active"><a href="index.php">Accueil</a></li>
     <li role="presentation"><a href="staff.php">Qui sommes nous ?</a></li>
