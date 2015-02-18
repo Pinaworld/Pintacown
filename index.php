@@ -16,7 +16,7 @@
         <?php include("menu.php") ?>
         <br /><br />
         <h2>Accueil et présentation</h2>
-
+<p>Une page de présentation de la Maison des ligues</p>
 <br />
 <br />
 <br />

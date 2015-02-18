@@ -18,6 +18,8 @@
 
     <h2>Composition de l'equipe </h2>
 
+
+        <p>Une page présentant les différents types de personnels de la maison des ligues</p>
         <br />
         <br />
         <br />

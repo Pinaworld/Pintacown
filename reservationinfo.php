@@ -18,6 +18,7 @@
 
         <h2>Bot des réservations</h2>
 
+        <p>Une page expliquant le fonctionnement des réservations</p>
         <br />
         <br />
         <br />

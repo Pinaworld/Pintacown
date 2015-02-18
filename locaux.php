@@ -17,7 +17,7 @@
 
         <h2>Locaux disponibles</h2>
 
-
+<p>Une page de description des locaux</p>
         <br />
         <br />
         <br />

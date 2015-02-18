@@ -8,7 +8,7 @@
 <html><head>  <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
     <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
 </head>
-<body>
+<body class="page-header">
 <img src="bannerm2l.png" /><br />
 
 <ul class="nav nav-pills">
@@ -20,7 +20,7 @@
     <li role="presentation"><a href="locaux.php">Locaux</a></li>
     <li role="presentation"><a href="stuffinfo.php">Matériel deployé</a></li>
     <li role="presentation"><a href="services.php">Services</a></li>
-    <li role="presentation"><a href="reservation.php">Reservations</a></li>
+    <li role="presentation"><a href="reservationinfo.php">Reservations</a></li>
     <li role="presentation"><a href="formintranet.php">Intranet</a></li>
 </ul>
 

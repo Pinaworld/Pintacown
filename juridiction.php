@@ -17,6 +17,7 @@
         <br /><br />
         <h2>Juridiction</h2>
 
+        <p>Une page présentant le statut juridique de la maison des ligues.</p>
 
         <br />
         <br />

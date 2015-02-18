@@ -17,6 +17,7 @@
 
         <h2>Liens contextes</h2>
 
+        <p>Page a supprimer je pense</p>
         <br />
         <br />
         <br />

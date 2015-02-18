@@ -16,7 +16,9 @@
 <?php include("menu.php") ?>
 
     <h2>Blog</h2>
-
+<p>
+    Un blog
+</p>
 <br />
 <br />
 <br />

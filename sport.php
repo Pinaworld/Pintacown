@@ -18,6 +18,7 @@
 
             <h2>Listing des sports présents</h2>
 
+<p>Une page présentant toutes les différentes structures hébergées (Tennis, football ….)</p>
 
             <br />
             <br />

@@ -17,6 +17,7 @@
 
         <h2>Services inclues</h2>
 
+        <p>La page décrivant les différents services proposés aux ligues.</p>
         <br />
         <br />
         <br />

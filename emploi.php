@@ -17,6 +17,10 @@
 
         <h2>Offres d'emploi</h2>
 
+<p>
+    Une page d’offres d’emplois de la maison des ligues
+</p>
+
 <br />
 <br />
 <br />

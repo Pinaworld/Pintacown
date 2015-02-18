@@ -19,6 +19,8 @@
 
         <h2>Materiel informatique</h2>
 
+        <p>Une page décrivant les différents matériels informatiques de la M2L.</p>
+
         <br />
         <br />
         <br />
