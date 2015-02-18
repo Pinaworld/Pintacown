@@ -18,9 +18,9 @@
         <h2>Private sector</h2>
         <p>Connexion réussie !!</p>
 
-        <?php
-        $nom = $_POST["log"];
-        echo "Bonjour, ".$nom;
+        <?php /**
+        $nom = $_POST["inputName1"];
+        echo "Bonjour, ".$nom; */
         ?>
 
         <br />
