@@ -12,17 +12,17 @@
         <!--<title>
             Mention legal
         </title>-->
-        <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
+        <LINK href="style/bootstrap.css" rel="stylesheet" type="text/css">
     </head>
 
     <body>
     <nav>
         <ul class="pager">
-            <li><a href="#"><img src="glyphicons-115-list.png" /> Info legales</a></li>
-            <li><a href="#"><img src="glyphicons-29-cars.png" /> Liens partnaires</a></li>
-            <li><a href="#"><img src="glyphicons-13-heart.png" />Favoris</a></li>
-            <li><a href="#"><img src="glyphicons-25-parents.png"/>Contact</a></li>
-            <li><a href="#"><img src="glyphicons-47-router.png"/>Faire connaitre le site</a></li>
+            <li><a href="#"><img src="pict/glyphicons-115-list.png" /> Info legales</a></li>
+            <li><a href="#"><img src="pict/glyphicons-29-cars.png" /> Liens partnaires</a></li>
+            <li><a href="#"><img src="pict/glyphicons-13-heart.png" />Favoris</a></li>
+            <li><a href="#"><img src="pict/glyphicons-25-parents.png"/>Contact</a></li>
+            <li><a href="#"><img src="pict/glyphicons-47-router.png"/>Faire connaitre le site</a></li>
         </ul>
     </nav>
 

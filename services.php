@@ -9,7 +9,7 @@
 <html>
 <head lang="fr">
     <meta charset="UTF-8">
-        <LINK href="bootstrap.css" rel="stylesheet" type="text/css">
+        <LINK href="style/bootstrap.css" rel="stylesheet" type="text/css">
     <title>M2l - Services</title>
 </head>
 <body>
