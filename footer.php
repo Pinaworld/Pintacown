@@ -13,6 +13,7 @@
             Mention legal
         </title>-->
         <LINK href="style/bootstrap.css" rel="stylesheet" type="text/css">
+
     </head>
 
     <body>

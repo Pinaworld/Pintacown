@@ -5,9 +5,11 @@
 * Time: 08:44
 */ ?>
 
-<html><head>  <LINK href="style/bootstrap.css" rel="stylesheet" type="text/css">
+<html><head>
 
-
+    <meta name="viewport" content="width=device-width" />
+    <LINK href="style/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet" />
 
 
 </head>
