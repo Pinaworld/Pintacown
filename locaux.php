@@ -23,9 +23,20 @@
                 <div class="thumbnail">
                     <img src="..." alt="...">
                     <div class="caption">
-                        <h3>Exemple de sport 1</h3>
-                        <p>Laissez vous embarquer par...</p>
-                        <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Non</a></p>
+                        <h3>Locale reservé aux sport en salle: <span class="label label-default">Nouveau !</span></h3>
+                        <p>Situé à Paris 17eme</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Reserver</a> <a href="#" class="btn btn-default" role="button">Plus d'info</a></p>
+                    </div>
+                </div>
+            </div>                                  <!--Demandez plus de détails-->
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Local pour waterpolo
+                            <span class="label label-warning">Reservé !</span></h3>
+                        <p></p>
+                        <p><a href="#" class="btn btn-primary" role="button" >Allez voir</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
                     </div>
                 </div>
             </div>
@@ -33,18 +44,8 @@
                 <div class="thumbnail">
                     <img src="..." alt="...">
                     <div class="caption">
-                        <h3>Exemple de sport 2</h3>
-                        <p>Ce sport consiste à...</p>
-                        <p><a href="#" class="btn btn-primary" role="button">Allez voir</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <img src="..." alt="...">
-                    <div class="caption">
-                        <h3>Exemple de sport 3</h3>
-                        <p>Sport simple mais...</p>
+                        <h3>Local 3</h3>
+                        <p>Situé à...</p>
                         <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
                     </div>
                 </div>
@@ -56,8 +57,8 @@
                 <div class="thumbnail">
                     <img src="..." alt="...">
                     <div class="caption">
-                        <h3>Exemple de sport 1</h3>
-                        <p>Laissez vous embarquer par...</p>
+                        <h3>Local 4</h3>
+                        <p>Situé à paris</p>
                         <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Non</a></p>
                     </div>
                 </div>
@@ -66,8 +67,8 @@
                 <div class="thumbnail">
                     <img src="..." alt="...">
                     <div class="caption">
-                        <h3>Exemple de sport 2</h3>
-                        <p>Ce sport consiste à...</p>
+                        <h3>Local 5</h3>
+                        <p>Situé à Versailles</p>
                         <p><a href="#" class="btn btn-primary" role="button">Allez voir</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
                     </div>
                 </div>
@@ -76,8 +77,8 @@
                 <div class="thumbnail">
                     <img src="..." alt="...">
                     <div class="caption">
-                        <h3>Exemple de sport 3</h3>
-                        <p>Sport simple mais...</p>
+                        <h3>Local 6</h3>
+                        <p>Principe compris les gars ?</p>
                         <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
                     </div>
                 </div>
