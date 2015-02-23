@@ -9,7 +9,7 @@
 
     <meta name="viewport" content="width=device-width" />
     <LINK href="style/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet" />
+    <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
 
 
 </head>
@@ -17,20 +17,10 @@
 <img src="pict/bannerm2l.png" /><br />
 
 <script src="style/bootstrap.js"></script>
-<ul class="nav nav-tabs">
+<ul class="nav nav-pills">
     <li role="presentation" class="active"><a href="index.php">Accueil</a></li>
     <li role="presentation"><a href="staff.php">Qui sommes nous ?</a></li>
     <li role="presentation"><a href="blog.php">Le blog</a></li>
-
-    <li role="presentation" class="dropdown">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
-            Dropduuuuuown <span class="caret">*</span>
-        </a>
-        <ul class="dropdown-menu" role="menu">
-           <ol>Test</ol>
-        </ul>
-    </li>
-
     <li role="presentation"><a href="emploi.php">Offre d'emploi</a></li>
     <li role="presentation"><a href="juridiction.php">Juridiction</a></li>
     <li role="presentation"><a href="locaux.php">Locaux</a></li>

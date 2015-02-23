@@ -18,6 +18,71 @@
         <h2>Locaux disponibles</h2>
 
 <p>Une page de description des locaux</p>
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Exemple de sport 1</h3>
+                        <p>Laissez vous embarquer par...</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Non</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Exemple de sport 2</h3>
+                        <p>Ce sport consiste à...</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Allez voir</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Exemple de sport 3</h3>
+                        <p>Sport simple mais...</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Exemple de sport 1</h3>
+                        <p>Laissez vous embarquer par...</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Non</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Exemple de sport 2</h3>
+                        <p>Ce sport consiste à...</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Allez voir</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="..." alt="...">
+                    <div class="caption">
+                        <h3>Exemple de sport 3</h3>
+                        <p>Sport simple mais...</p>
+                        <p><a href="#" class="btn btn-primary" role="button">Interessé</a> <a href="#" class="btn btn-default" role="button">Pas interessé</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <br />
         <br />
         <br />
