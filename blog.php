@@ -17,7 +17,7 @@
 
     <h2>Blog</h2>
 <p>
-    Un blog
+    Un blog log log
 </p>
 <br />
 <br />
