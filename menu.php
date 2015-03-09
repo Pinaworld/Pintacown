@@ -122,37 +122,29 @@
 <ul class="nav nav-pills">
 
     <li role="presentation" class="active"><a href="index.php">Accueil</a></li>
-    <li role="presentation"><a href="staff.php">Qui sommes nous ?</a></li>
-    <li role="presentation"><a href="blog.php">Le blog</a></li>
 
 
     <li class="dropdown"><a tabindex="0" data-toggle="dropdown">M2l<span class="caret"></span></a>
         <ul class="dropdown-menu" role="menu">
-            <li class="dropdown-submenu"><a tabindex="0" data-toggle="dropdown">Qui sommes nous ?</a>
-                <ul class="dropdown-menu">
-                    <li><a tabindex="0">#</a></li>
-                    <li class="dropdown-submenu"><a tabindex="0" data-toggle="dropdown">Another sub
-                            action</a>
-                        <ul class="dropdown-menu">
-                            <li><a tabindex="0">qui sommes nous ?</a></li>
-                            <li><a tabindex="0">Personnel</a></li>
-                            <li><a tabindex="0">Locaux</a></li>
-                        </ul>
-                    </li>
-                    <li><a tabindex="0">Somethin00ere</a></li>
-                </ul>
-            </li>
-            <li><a tabindex="0">Personnel</a></li>
+            <li class="dropdown-submenu">
+                <a tabindex="0" data-toggle="dropdown"><a href="staff.php">Qui sommes nous ?</a>
 
-            <li class="divider"></li>
-            <li><a tabindex="0">Juridiction</a></li>
+            </li>
+            <li><a tabindex="0"><a href="stuffinfo.php">Matériel deployé</a></a></li>
+
+            </li>
+            <li><a tabindex="0"><a href="services.php">Services</a></a></li>
+
+            </li>
+            <li><a tabindex="0"><a href="locaux.php">Locaux</a></a></li>
+
+
+    <li class="divider"></li>
+            <li><a tabindex="0"><a href="juridiction.php">Juridiction</a></a></li>
         </ul>
     </li>
     <li role="presentation"><a href="emploi.php">Offre d'emploi</a></li>
-    <li role="presentation"><a href="juridiction.php">Juridiction</a></li>
-    <li role="presentation"><a href="locaux.php">Locaux</a></li>
-    <li role="presentation"><a href="stuffinfo.php">Matériel deployé</a></li>
-    <li role="presentation"><a href="services.php">Services</a></li>
+    <li role="presentation"><a href="blog.php">Le blog</a></li>
     <li role="presentation"><a href="reservationinfo.php">Reservations</a></li>
     <li role="presentation"><a href="formintranet.php">Intranet</a></li>
 </ul>
