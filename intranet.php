@@ -15,7 +15,7 @@
 <body>
         <?php include("menu.php") ?>
         <br /><br />
-        <h2>Private sector</h2>
+        <h2>Connexion Ligue de </h2>
         <p>Connexion réussie !!</p>
 
         <?php /**

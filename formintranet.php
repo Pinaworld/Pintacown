@@ -16,20 +16,8 @@
 
         <?php include("menu.php") ?>
         <br /><br />
-        <h2>Serveur privée à connexion securisée</h2>
+        <h2>Bienvenu Ligue <?php echo 'bonjour'?></h2>
 
-    <!--    <form method="post" action="intranet.php" name="leNom">
-            <br /><br />
-            <label for="inputPassword"></label>
-            Identifiant de connexion : <input type="text" name="log" size="20" maxlength="50" placeholder="Nom de connexion"/><br /><br />
-            Mot de passe : <input id="inputPassword" type="password" name="mdp" /><br /><br />
-
-            <input type="submit" value="Envoyer">
-            <input type="reset" value="Annuler">
-
-            <br />
-            <br />
-        </form> -->
         <form class="form-horizontal" method="post" action="intranet.php" name="leNom">
             <div class="form-group">
                 <label for="inputName1" class="col-sm-2 control-label">Identifiant de connexion :</label>

@@ -126,32 +126,26 @@
     <li role="presentation"><a href="blog.php">Le blog</a></li>
 
 
-    <li class="dropdown"><a tabindex="0" data-toggle="dropdown">Dropdown test<span class="caret"></span></a>
+    <li class="dropdown"><a tabindex="0" data-toggle="dropdown">M2l<span class="caret"></span></a>
         <ul class="dropdown-menu" role="menu">
-            <li class="dropdown-submenu"><a tabindex="0" data-toggle="dropdown">Action</a>
+            <li class="dropdown-submenu"><a tabindex="0" data-toggle="dropdown">Qui sommes nous ?</a>
                 <ul class="dropdown-menu">
-                    <li><a tabindex="0">Sub action</a></li>
+                    <li><a tabindex="0">#</a></li>
                     <li class="dropdown-submenu"><a tabindex="0" data-toggle="dropdown">Another sub
                             action</a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="0">Sub action</a></li>
-                            <li><a tabindex="0">Another sub action</a></li>
-                            <li><a tabindex="0">Something else here</a></li>
+                            <li><a tabindex="0">qui sommes nous ?</a></li>
+                            <li><a tabindex="0">Personnel</a></li>
+                            <li><a tabindex="0">Locaux</a></li>
                         </ul>
                     </li>
-                    <li><a tabindex="0">Something else here</a></li>
+                    <li><a tabindex="0">Somethin00ere</a></li>
                 </ul>
             </li>
-            <li><a tabindex="0">Another action</a></li>
-            <li class="dropdown-submenu"><a tabindex="0" data-toggle="dropdown">Something else here</a>
-                <ul class="dropdown-menu">
-                    <li><a tabindex="0">Sub action</a></li>
-                    <li><a tabindex="0">Another sub action</a></li>
-                    <li><a tabindex="0">Something else here</a></li>
-                </ul>
-            </li>
+            <li><a tabindex="0">Personnel</a></li>
+
             <li class="divider"></li>
-            <li><a tabindex="0">Separated link</a></li>
+            <li><a tabindex="0">Juridiction</a></li>
         </ul>
     </li>
     <li role="presentation"><a href="emploi.php">Offre d'emploi</a></li>
