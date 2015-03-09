@@ -13,6 +13,12 @@
     <title>M2l - Blog</title>
 </head>
 <body>
+
+
+
+
+
+
 <?php include("menu.php") ?>
 
     <h2>Blog</h2>
