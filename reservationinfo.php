@@ -19,6 +19,7 @@
         <h2>Bot des réservations</h2>
 
         <p>Une page expliquant le fonctionnement des réservations</p>
+        <a href="reservationsengine.php"><p>Moteur de résa</p></a>
         <br />
         <br />
         <br />

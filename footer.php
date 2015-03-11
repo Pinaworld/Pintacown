@@ -19,7 +19,7 @@
     <body>
     <nav>
         <ul class="pager">
-            <li><a href="#"><img src="pict/glyphicons-115-list.png" /> Info legales</a></li>
+            <li><a href="mention.php"><img src="pict/glyphicons-115-list.png" /> Mentions legales</a></li>
             <li><a href="#"><img src="pict/glyphicons-29-cars.png" /> Liens partnaires</a></li>
             <li><a href="#"><img src="pict/glyphicons-13-heart.png" />Favoris</a></li>
             <li><a href="#"><img src="pict/glyphicons-25-parents.png"/>Contact</a></li>
